@@ -1,0 +1,1 @@
+This is a migration of my iGoogle gadget to a Google chrome extension.
